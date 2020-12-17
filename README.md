@@ -1,3 +1,4 @@
 # task1
 Halo ini perkenalan ku.
-TAMAT.
+ini editan keduaku
+belum TAMAT.
